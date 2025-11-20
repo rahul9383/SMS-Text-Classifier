@@ -4,8 +4,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ZVNB_nKvhUFahVgWHzjW-wnrpYDwVcYf
 """
 
-!pip uninstall -y tensorflow tf-nightly tensorflow-datasets
-!pip install tensorflow tensorflow-datasets
 import tensorflow as tf
 import pandas as pd
 from tensorflow import keras
